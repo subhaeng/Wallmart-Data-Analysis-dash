@@ -23,3 +23,7 @@ Product Profit: Spread across many products, with the top ones being Canon image
 Geographic Insight: Sales are primarily concentrated in North America and Europe, based on the city map.
 
 This dashboard is ideal for identifying high-performing products, states, and sales trends over time.
+##DataSet
+<a href="https://github.com/subhaeng/Wallmart-Data-Analysis-dash/blob/main/Walmart.xlsx">DataSet</a>
+##Dasboard
+<img width="1311" height="748" alt="wallmart dash" src="https://github.com/user-attachments/assets/e488d922-0898-4d78-921f-a5ce7fee53ff" />
