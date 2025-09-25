@@ -1,4 +1,6 @@
 🛒 Walmart Data Analysis Dashboard
+
+
 📌 Introduction
 
 The Walmart Data Analysis Dashboard is an interactive Power BI project designed to provide sales and profit insights over the period 2011–2015. This dashboard highlights key performance metrics, yearly sales trends, category performance, and geographic distribution to help identify business growth opportunities and potential risks.
